@@ -1,0 +1,2 @@
+# How-to-Set-Up-Fedora-Workstation-43-in-VMware-Workstation-or-Player
+Virtualization has become one of the most useful technologies for developers, students, and tech enthusiasts who want to experiment with different operating systems without affecting their main system. Instead of installing a new operating system directly on your computer, virtualization allows you to run it inside a virtual environment.
